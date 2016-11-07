@@ -1,0 +1,17 @@
+127.0.0.1 - - [03/Nov/2016:00:25:38 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [03/Nov/2016:00:25:57 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:26:27 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 425
+127.0.0.1 - - [03/Nov/2016:00:27:31 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [03/Nov/2016:00:27:34 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:27:35 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 415
+127.0.0.1 - - [03/Nov/2016:00:28:20 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [03/Nov/2016:00:28:26 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:28:26 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 415
+127.0.0.1 - - [03/Nov/2016:00:28:59 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [03/Nov/2016:00:29:03 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:29:04 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 396
+127.0.0.1 - - [03/Nov/2016:00:30:19 -0700] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [03/Nov/2016:00:30:26 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:30:27 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 413
+127.0.0.1 - - [03/Nov/2016:00:30:49 -0700] "GET /EmployeePortal/data/employees HTTP/1.1" 200 1403
+0:0:0:0:0:0:0:1 - - [03/Nov/2016:00:30:50 -0700] "GET /EmployeePortal/welcome.html HTTP/1.1" 200 414

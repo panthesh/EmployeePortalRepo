@@ -1,0 +1,60 @@
+[
+	  {"id": "1",
+	  "firstName": "Michael",
+	  "middleName": "Jay",
+	  "lastName": "Phelps",
+	  "title": "Sr Software Engineer",
+	  "groupId": "GROUP-1",
+	  "managerId": "3",
+	  "employeeType": "FULLTIME",
+	  "address" : {
+	      "streetName1": "3848 Overland Ave",
+	      "streetName2": "Apt 401",
+	      "city": "San Mateo",
+	      "state": "CA",
+	      "zip": "94555",
+	      "country": "USA"
+	  },
+	  "emergencyContactName": "Jay Phelps",
+	  "emergencyContactNumber": "408-338-8549",
+	  "mediumUserId": "@ZeroGravityComm"},
+	  
+	  {"id": "2",
+	  "firstName": "Peter",
+	  "middleName": "Jay",
+	  "lastName": "Hellman",
+	  "title": "Software Engineer",
+	  "groupId": "GROUP-1",
+	  "managerId": "3",
+	  "employeeType": "CONTRACTOR",
+	  "address" : {
+	      "streetName1": "4397 Calypso Ter",
+	      "city": "Fremont",
+	      "state": "CA",
+	      "zip": "94555",
+	      "country": "USA"
+	  },
+	  "emergencyContactName": "Jay Hellamn",
+	  "emergencyContactNumber": "551-358-1118",
+	  "mediumUserId": "@balajiprasad"},
+	  
+	  {"id": "3",
+	  "firstName": "Chintan",
+	  "middleName": "Gary",
+	  "lastName": "Desai",
+	  "title": "Software Manager",
+	  "groupId": "GROUP-1",
+	  "managerId": "4",
+	  "employeeType": "FULLTIME",
+	  "address" : {
+	      "streetName1": "34 Union Sq",
+	      "streetName2": "Apt 297",
+	      "city": "Union City",
+	      "state": "CA",
+	      "zip": "94587",
+	      "country": "USA"
+	  },
+	  "emergencyContactName": "Gary Desai",
+	  "emergencyContactNumber": "408-300-7946",
+	  "mediumUserId": "@reidhoffman"}
+]
